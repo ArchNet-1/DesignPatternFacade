@@ -4,6 +4,7 @@
   "displayName": "ArchNet - Facade Pattern",
   "description": "Learning package: a sample showing the Facade pattern, one simple entry point to several systems.",
   "unity": "6000.0",
+  "license": "MIT",
   "documentationUrl": "https://archnet-plateform.fr/#DesignPatternFacade",
   "changelogUrl": "https://github.com/ArchNet-1/DesignPatternFacade/blob/master/CHANGELOG.md",
   "licensesUrl": "https://github.com/ArchNet-1/DesignPatternFacade/blob/master/LICENSE.md",

@@ -23,4 +23,4 @@ https://github.com/ArchNet-1/DesignPatternFacade.git
 
 ## License
 
-See [LICENSE.md](LICENSE.md).
+MIT, see [LICENSE.md](LICENSE.md).
