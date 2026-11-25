@@ -1,19 +1,27 @@
 {
   "name": "com.archnet.designpattern.facade",
-  "version": "1.0.0",
-  "displayName": "Arch Net Design Pattern Facade",
-  "description": "Design Pattern Facade.",
-  "unity": "2020.1",
-  "unityRelease": "0b5",
+  "version": "2.0.0",
+  "displayName": "ArchNet - Facade Pattern",
+  "description": "Learning package: a sample showing the Facade pattern, one simple entry point to several systems.",
+  "unity": "6000.0",
+  "documentationUrl": "https://archnet-plateform.fr/#DesignPatternFacade",
+  "changelogUrl": "https://github.com/ArchNet-1/DesignPatternFacade/blob/master/CHANGELOG.md",
+  "licensesUrl": "https://github.com/ArchNet-1/DesignPatternFacade/blob/master/LICENSE.md",
   "keywords": [
-    "Arch",
-    "ArchNet",
-    "Extension",
-    "DesignPattern",
-    "Facade"
+    "archnet",
+    "designpattern",
+    "facade"
+  ],
+  "samples": [
+    {
+      "displayName": "Shop Facade",
+      "description": "One Buy() call that checks the wallet, the inventory and the player level.",
+      "path": "Samples~/ShopFacade"
+    }
   ],
   "author": {
-    "name": "Arch Net",
-    "email": "archnetmodule@gmail.com"
+    "name": "ArchNet",
+    "email": "archnetmodule@gmail.com",
+    "url": "https://archnet-plateform.fr"
   }
 }
